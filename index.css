@@ -1,9 +1,9 @@
 body{
-    background-color: aqua;
+    background-image: url('https://wallpapercave.com/wp/wp2249197.jpg');
 }
 .box-part{
     background-color: white;
-    margin: 15px;
+    margin: 10px;
     padding: 30px 10px;
 }
 .fa{
