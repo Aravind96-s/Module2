@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+.box-part{
+    background-color: white;
+    margin: 15px;
+    padding: 30px 10px;
+}
+.fa{
+    color: blue;
+}
+a{
+    border-bottom: 2px solid blue;
+}
+p{
+    margin-top: 20px;
+}
+.box{
+    padding: 60px 0px;
+}
